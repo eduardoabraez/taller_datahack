@@ -1,4 +1,6 @@
 # taller_datahack
 Taller de github
 
-Este es mi primer cambio
+Este es mi primero cambio
+
+Cambio desde mi ordenador
